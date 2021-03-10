@@ -1,6 +1,6 @@
 source "http://rubygems.org"
 
-gem 'rake', '~> 0.9.2'
+gem 'rake', '~> 12.3.3'
 gem 'nanoc', '~> 3.1.6'
 gem 'kramdown', '~> 0.13.2'
 gem 'nokogiri', '~> 1.4.4'
